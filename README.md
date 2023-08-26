@@ -32,9 +32,8 @@
 
 # 📖 [Dynamic Form Builder] <a name="about-project"></a>
 
-> Dynamic Form Builder is a web application that allows users to create forms dynamically and preview them before submitting.
 
-**[your_project__name]** is a...
+**[Dynamic Form Builder]** is a web application that allows users to create forms dynamically and preview them before submitting.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://dynamicformbuilder.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
